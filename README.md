@@ -156,16 +156,6 @@ def generate_script(subject, video_length, creativity, api_key):
 ## 📄 许可证
 
 MIT License
-
----
-
-## 📧 联系方式
-
-如有问题或建议，欢迎联系：
-
-- GitHub：[your-username](https://github.com/your-username)
-- 邮箱：your-email@example.com
-
 ---
 
 *Made with ❤️ by your-name*
