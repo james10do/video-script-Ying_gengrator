@@ -6,9 +6,9 @@
 
 # 🖼️ 效果预览
 
-![QQ截图20260725221130](E:\AIAgent\video-script-gengrator\笔记图片\QQ截图20260725221130.png)
+![主界面](ui.png)
 
-![QQ截图20260725221614](E:\AIAgent\video-script-gengrator\笔记图片\QQ截图20260725221614.png)
+![代码截图](code.png)
 
 ## ✨ 功能特性
 
